@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CH_NAMESPACE="${CH_NAMESPACE:-chista-operator}"
+CH_NAMESPACE="${CH_NAMESPACE:-alldata-operator}"
 
 CUR_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 
