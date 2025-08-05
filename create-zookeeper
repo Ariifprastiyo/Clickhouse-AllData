@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ZK_NAMESPACE="${ZK_NAMESPACE:-chista-zookeeper}"
+ZK_NAMESPACE="${ZK_NAMESPACE:-alldata-zookeeper}"
 
 CUR_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 
